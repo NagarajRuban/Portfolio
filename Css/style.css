@@ -1,0 +1,19 @@
+* {
+    font-family: Poppind, sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.banner {
+    background: url(/Images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 150px;
+    /* height: 540px; */
+}
+
+.skills-padding {
+    padding: 70px 0;
+}
